@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/banner.jpg" alt="Banner about David Sabalete">
+
 ### Hi there :wave:! I'm David.
 ### Nice to meet you!
 
