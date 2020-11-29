@@ -1,9 +1,8 @@
+### Hi! :wave:
+
 <img src="https://raw.githubusercontent.com/dsabalete/dsabalete/master/banner.jpg" alt="Banner about David Sabalete">
 
-### Hi there :wave:! I'm David.
-### Nice to meet you!
-
-I'm full stack web / app developer with more then 20 years experience. I have been working in various fields, starting from top assistance portal, medical, insurances, banking, pharmaceutical and ending with online content. I am experienced in Vue.js and Nuxt in which I produce high quality code for my clients that are both well performing and well tested. I focus on solving problems, not only technical problems but creating an awesome experience for the users of my software both visual and accessible. Mixing powerful tools and knowledge about the users brings visual UI's to life and leads to webpages being accessible and useful. 
+I'm David and I'm a Front end Developer with more then 20 years experience. I have been working in various fields, starting from top assistance portal, medical, insurances, banking, pharmaceutical and ending with online content. I am experienced in Vue.js and Nuxt in which I produce high quality code for my clients that are both well performing and well tested. I focus on solving problems, not only technical problems but creating an awesome experience for the users of my software both visual and accessible. Mixing powerful tools and knowledge about the users brings visual UI's to life and leads to webpages being accessible and useful. 
 
 #### TECH STACK
 
