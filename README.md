@@ -2,7 +2,7 @@
 
 👈 that's me! 
 
-[web](https://davidsabalete.com) | [twitter](https://twitter.com/dsabalete) | [instabeer](https://www.instagram.com/dsabalete/) | [projects](https://dsabalete.github.io)
+[web](https://www.davidsabalete.com) | [twitter](https://twitter.com/dsabalete) | [instabeer](https://www.instagram.com/dsabalete/) | [projects](https://dsabalete.github.io)
 ---|---|---|---
 
 
