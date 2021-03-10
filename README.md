@@ -1,10 +1,9 @@
-### Hi! :wave:
-
-👈 that's me! 
-
 [web](https://www.davidsabalete.com) | [twitter](https://twitter.com/dsabalete) | [instabeer](https://www.instagram.com/dsabalete/) | [projects](https://dsabalete.github.io) | [blog](https://blog.davidsabalete.com)
 ---|---|---|---|---
 
+### Hi! :wave:
+
+👈 that's me! 
 
 <!-- [![Banner about David Sabalete](https://raw.githubusercontent.com/dsabalete/dsabalete/master/banner.jpg)](https://www.davidsabalete.com) -->
 
