@@ -2,7 +2,8 @@
 
 👈 that's me! 
 
-[web](https://davidsabalete.com) * [twitter](https://twitter.com/dsabalete) * [instabeer](https://www.instagram.com/dsabalete/) * [projects](https://dsabalete.github.io)
+[web](https://davidsabalete.com) | [twitter](https://twitter.com/dsabalete) | [instabeer](https://www.instagram.com/dsabalete/) | [projects](https://dsabalete.github.io)
+---|---|---|---
 
 
 <!-- [![Banner about David Sabalete](https://raw.githubusercontent.com/dsabalete/dsabalete/master/banner.jpg)](https://www.davidsabalete.com) -->
