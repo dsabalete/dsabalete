@@ -1,5 +1,5 @@
 [web](https://www.davidsabalete.com) | [instagram](https://www.instagram.com/dsabalete/) | [projects](https://dsabalete.github.io) | [blog](https://blog.davidsabalete.com)
----|---|---|---|---
+---|---|---|---
 
 ### Hi! :wave:
 
